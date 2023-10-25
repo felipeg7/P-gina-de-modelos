@@ -1,6 +1,6 @@
 body{
     height: 900px;
-background: linear-gradient(180deg, #ff0000e1 0%, rgba(255, 255, 255, 0.925) 98.96%);
+background: linear-gradient(180deg, #ffffff 0%, rgba(0, 0, 0, 0.925) 98.96%);
 background-repeat: no-repeat;
 }
 
@@ -10,7 +10,7 @@ background-repeat: no-repeat;
     width: 600px;
     height: 96px;
     left: 650px;
-    top: 70px;
+    top: 158px;
     
     font-family: 'Inter';
     font-style: normal;
