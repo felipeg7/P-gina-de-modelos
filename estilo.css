@@ -1,6 +1,7 @@
 body{
     height: 900px;
-background: linear-gradient(180deg, #ffffff 0%, rgba(0, 0, 0, 0.925) 98.96%);
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 35%, rgba(0,0,0,1) 100%);
 background-repeat: no-repeat;
 }
 
