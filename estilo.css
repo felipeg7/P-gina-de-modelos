@@ -1,8 +1,9 @@
 body{
     height: 900px;
     background: rgb(255,255,255);
-background: linear-gradient(180deg, rgba(255,255,255,1) 35%, rgba(0,0,0,1) 100%);
+background: linear-gradient(180deg, rgb(255, 255, 255) 35%, rgb(226, 156, 4) 100%);
 background-repeat: no-repeat;
+ 
 }
 
 .apre{
@@ -23,3 +24,18 @@ background-repeat: no-repeat;
     color: #000000;
     
      }
+
+     .foto1 {
+
+    position: absolute;
+    top: 450px;
+    left: 55px;
+     }
+ 
+     .foto2 {
+
+        position: absolute;
+        top: 450px;
+        left: 300px;
+     }
+     
