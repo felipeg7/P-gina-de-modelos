@@ -1,50 +1,50 @@
 body{
-    height: 900px;
-    background: rgb(255,255,255);
+   height: 900px;
+   background: rgb(255,255,255);
 background: linear-gradient(180deg, rgb(255, 255, 255) 35%, rgb(226, 156, 4) 100%);
 background-repeat: no-repeat;
- 
+
 }
 
 .apre{
 
-    position: absolute;
-    width: 600px;
-    height: 96px;
-    left: 650px;
-    top: 158px;
+   position: absolute;
+   width: 600px;
+   height: 96px;
+   left: 650px;
+   top: 158px;
+   
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 24px;
+   text-align: center;
+   
+   color: #000000;
+   
+    }
+
+    .foto1 {
+
+   position: absolute;
+   top: 450px;
+   left: 55px;
+    }
+
     
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
+    .foto2 {
+
+       position: absolute;
+       top: 450px;
+       left: 300px;
+    }
     
-    color: #000000;
+
+    .foto3 {
     
-     }
+       position: absolute;
+       top: 450px;
+       left: 570px;
 
-     .foto1 {
-
-    position: absolute;
-    top: 450px;
-    left: 55px;
-     }
- 
-     
-     .foto2 {
-
-        position: absolute;
-        top: 450px;
-        left: 300px;
-     }
-     
-
-     .foto3 {
-     
-        position: absolute;
-        top: 450px;
-        left: 570px;
-
-     }
+    }
